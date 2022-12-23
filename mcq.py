@@ -41,7 +41,9 @@ def reg():
         }
         data["student registration"].append(list_of_stud)
         mcq_utils.write_json(file,data)
-        return redirect("/")
+        msg="user " + username +" has been registered successfully!!!"
+        data = mcq_utils.read_json(file)
+        return render_template("login.html", data= data["student registration"], msg=msg)
     return render_template("mcq2.html", data=data["student registration"])
     
 if __name__=="__main__":
