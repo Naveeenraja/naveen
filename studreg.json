@@ -79,16 +79,6 @@
          "Email": "123@gmail.com",
          "Username": "234@",
          "Password": "2345@"
-      },
-      {
-         "s_no": 9,
-         "Firstname": "abc",
-         "Lastname": "def",
-         "DOB": "2000-10-12",
-         "Gender": "female",
-         "Email": "123@gmail.com",
-         "Username": "234@",
-         "Password": "2345@"
       }
    ]
 }
