@@ -69,16 +69,6 @@
          "Email": "wer@gmail.com",
          "Username": "qwe@",
          "Password": "qwe@"
-      },
-      {
-         "s_no": 8,
-         "Firstname": "abc",
-         "Lastname": "def",
-         "DOB": "2000-10-12",
-         "Gender": "female",
-         "Email": "123@gmail.com",
-         "Username": "234@",
-         "Password": "2345@"
       }
    ]
 }
