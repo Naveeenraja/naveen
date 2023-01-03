@@ -1,0 +1,32 @@
+{
+   "students": [
+      {
+         "age": "22",
+         "experience": "2",
+         "iD": 1,
+         "name": "",
+         "qualification": "bcom"
+      },
+      {
+         "age": "",
+         "experience": "3",
+         "iD": 2,
+         "name": "",
+         "qualification": "bsc"
+      },
+      {
+         "age": "22",
+         "experience": "4",
+         "iD": 3,
+         "name": "",
+         "qualification": "bcom"
+      },
+      {
+         "age": "24",
+         "experience": "4",
+         "iD": 4,
+         "name": "raja",
+         "qualification": ""
+      }
+   ]
+}
