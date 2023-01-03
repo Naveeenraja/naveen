@@ -1,0 +1,115 @@
+#naveen{
+    width: 120px;
+    margin-top: 6%;
+    width: 120px;
+    margin-left: 38%;
+}
+h1{
+    text-align: start;
+    font-size: small;
+    font-family: serif;
+    font-style: italic;
+    margin-right: 11%;
+    color: #b4f8c8;
+    margin-left: 0%;
+    color: floralwhite;
+    height: 124px;
+    margin-top: 6%;
+}
+label{
+    margin-left: 24%;
+    
+}
+input{
+    margin-left: 24%;
+    height: 24px;
+    width: 200px;
+    border-radius: 500px;
+    padding: 0.7%;
+}
+#naveen2{
+    margin-top: 0.5%;
+    padding: 1%;
+}
+#naveen4{
+    margin-top: 0.5%;
+    padding: 1%;
+}
+/* #naveen5{
+    text-decoration: none;
+    margin-left: 40%;
+    border-radius: 400px;
+    width: 60px;
+    padding: 0.2%;
+} */
+#forgot{
+    text-decoration: none;
+    margin-left: 35.5%;
+    color: black;
+    
+}
+#button{
+    margin-left: 38%;
+    border-radius: 400px;
+    width: 70px;
+    height: 30px;
+    background-color: red
+}
+p{
+    width: 50px;
+    margin-left: 15%;
+    margin-top: 18%;
+    color: black;
+}
+#new{
+    float: right;
+    margin-right: 15%;
+    margin-top: -15.5%;
+    width: 97px;
+    height: 58px;
+    margin-top: -16%;
+    background-color: limegreen;
+}
+.naveen{
+    border-style: hidden;
+    height: 452px;
+    width: 455px;
+    margin-left: 33%;
+    /* background-color: lavenderblush; */
+    background-image: url(image\ 1.jpg);
+    background-size: 855px;
+    background-position-x: -189px;
+    background-position-y: -189px;
+}
+    
+
+.deco{
+    margin-left: 33%;
+    background-color: cornsilk;
+    width: 455px;
+    border-style: hidden;
+    background-image: url(Photo_1671168204526.jpg);
+    background-size: 326px;
+    background-position-x: 62px;
+    background-position-y: 210px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 2%
+}
+body{
+   background-image: url(image\ 1.jpg);
+}
+#button:hover{
+    background-color:green ;
+}
+#button:active{
+    background-color: gray;
+}
+#new:hover{
+    background-color: grey;
+}
+#new:active{
+    background-color: blue;
+}

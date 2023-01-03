@@ -1,0 +1,12 @@
+body{
+    background-image: url("Photo_1671168204526.jpg");
+    background-size: cover;
+    background-image: url(Photo_1671168204526.jpg);
+    background-size: 723px;
+    background-position-y: -69px;
+    background-position-x: -23px;
+    background-repeat: no-repeat;
+    background-repeat-x:repeat;
+    background-repeat-y:repeat;
+    /* background: repeat-y; */
+}
